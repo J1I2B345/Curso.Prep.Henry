@@ -1,0 +1,25 @@
+body { background-image: url( " https://img.freepik.com/foto-gratis/muro-hormigon-gris-claro_53876-89532.jpg?w=740&t=st=1650048656~exp=1650049256~hmac=38e72e0ba2fd5b3d58dbc939b2799058f4e50d19990e1faf08433e54c5ec35a2 " );
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+    
+    
+     
+}
+.img { width: 400px
+}
+
+.classDiv { justify-content: center;
+
+}
+#thirDiv { width: 500px;
+           height: 600px; 
+           background-color: chocolate;
+           padding: 50px;
+           border: 10px solid black
+}
+#spanId { font-size: 18px;
+          margin: 50px;
+
+}
